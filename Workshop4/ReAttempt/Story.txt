@@ -1,0 +1,14 @@
+User Stories
+
+System must connect to market server.
+
+System can buy Stocks from the market server
+
+System can sell stocks from the market server.
+
+System must disconnect in a gracefull manner from the market server.
+
+
+
+
+
